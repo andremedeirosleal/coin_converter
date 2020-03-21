@@ -1,4 +1,4 @@
-# aula2_conversor_de_moedas
+# COIN_CONVERTER
 
 A new Flutter application.
 
